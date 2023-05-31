@@ -20,10 +20,6 @@ Welcome to the Movie Store project! This is a web application that allows users 
 - HTML5: Markup language for structuring the web page
 - CSS3: Stylesheet language for styling the web page
 
-### Note to the tester
-- we have implemented a load more button at the end of the result page to show more results
-- sometimes when fetching images from the api error message displayed the get failed, i tried to prevent it.
-
 ---------------------
 
 
